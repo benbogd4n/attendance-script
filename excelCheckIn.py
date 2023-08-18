@@ -16,7 +16,7 @@ myStatus = input("What's your current work status? ").strip().capitalize()
 formatted_minute = str(now.minute).zfill(2)
 
 # var for whatsapp group id
-group_id = "KgjLth6nChq0ci1aj3WgGR"
+group_id = "AddYourGroupId"
 
 # test message to be sent
 print(f"{str1}{now.hour}:{formatted_minute} - {myStatus}")

@@ -15,7 +15,7 @@ myName = input("What's your name? ").strip().capitalize()
 formatted_minute = str(now.minute).zfill(2)
 
 # var for whatsapp group id
-group_id = "KgjLth6nChq0ci1aj3WgGR"
+group_id = "AddYourGroupId"
 
 
 # test message to be sent
